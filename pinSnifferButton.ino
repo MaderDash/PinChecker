@@ -1,7 +1,7 @@
 /*
-  Project:          Pin Sniffer
+  Project:          Button Pin Sniffer
   Description:      Looks to find the pin numbers on esp boards.
-  Creation date:    11/16/2021-10:16:23
+  Creation date:    03-20-2022
   Author:           Maderdash
   License:          Beerware
 */
